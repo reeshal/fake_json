@@ -1,6 +1,14 @@
+/*
 {
 "total_num_bookings": 5,
 "total_num_bookings_pending": 3,
 "total_num_bookings_approved": 2,
 "total_num_bookings_rejected": 1
+}
+*/
+{
+"total_num_bookings": 0,
+"total_num_bookings_pending": 0,
+"total_num_bookings_approved": 0,
+"total_num_bookings_rejected": 0
 }
