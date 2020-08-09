@@ -1,0 +1,79 @@
+[
+    {
+        "food_id": 1,
+        "food_name": "Mine Apollo",
+        "food_description": "Quick to prepare",
+        "food_price": 30.0,
+        "food_limit": 20,
+        "category_name": "Veg",
+        "isVeg": true,
+        "isHalal": true,
+        "food_rating": 4
+    },
+    {
+        "food_id": 2,
+        "food_name": "Mine Frite",
+        "food_description": "Quick to prepare",
+        "food_price": 125.0,
+        "food_limit": 50,
+        "category_name": "Veg",
+        "isVeg": true,
+        "isHalal": true,
+        "food_rating": 2
+    },
+    {
+        "food_id": 3,
+        "food_name": "Mine Frite",
+        "food_description": "Quick to prepare",
+        "food_price": 120.0,
+        "food_limit": 50,
+        "category_name": "Non-Veg",
+        "isVeg": false,
+        "isHalal": false,
+        "food_rating": 1
+    },
+    {
+        "food_id": 4,
+        "food_name": "Briani",
+        "food_description": "Quick to prepare",
+        "food_price": 150.0,
+        "food_limit": 30,
+        "category_name": "Veg",
+        "isVeg": true,
+        "isHalal": true,
+        "food_rating": 1
+    },
+    {
+        "food_id": 5,
+        "food_name": "Indian Thali",
+        "food_description": "Quick to prepare",
+        "food_price": 175.0,
+        "food_limit": 30,
+        "category_name": "Non-Veg",
+        "isVeg": false,
+        "isHalal": true,
+        "food_rating": 5
+    },
+    {
+        "food_id": 6,
+        "food_name": "Cake",
+        "food_description": "Chocolate cake",
+        "food_price": 50.0,
+        "food_limit": 15,
+        "category_name": "Dessert",
+        "isVeg": false,
+        "isHalal": true,
+        "food_rating": 2
+    },
+    {
+        "food_id": 7,
+        "food_name": "Croissant",
+        "food_description": "Croissant nature",
+        "food_price": 75.0,
+        "food_limit": 20,
+        "category_name": "Dessert",
+        "isVeg": true,
+        "isHalal": true,
+        "food_rating": 1
+    }
+]
