@@ -5,7 +5,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 0,
-        "type": "general"
+        "type": "registered"
     },
     {
         "phoneno":"52131859",
@@ -13,7 +13,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 2,
-        "type": "general"
+        "type": "registered"
     },
     {
         "phoneno":"51234859",
@@ -29,7 +29,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 0,
-        "type": "general"
+        "type": "registered"
     },
     {
         "phoneno":"57212349",
@@ -37,7 +37,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 1,
-        "type": "general"
+        "type": "registered"
     },
     {
         "phoneno":"52345859",
