@@ -4,7 +4,7 @@
         "email":"ecrtfetf@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 0,
+        "status": 0,
         "type": "general"
     },
     {
@@ -12,7 +12,7 @@
         "email":"wercrwcec@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 0,
+        "status": 0,
         "type": "general"
     },
     {
@@ -20,7 +20,7 @@
         "email":"fcfc@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 0,
+        "status": 0,
         "type": "driver"
     },
     {
@@ -28,7 +28,7 @@
         "email":"adfc@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 0,
+        "status": 0,
         "type": "general"
     },
     {
@@ -36,7 +36,7 @@
         "email":"qaqaqas@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 1,
+        "status": 1,
         "type": "general"
     },
     {
@@ -44,7 +44,7 @@
         "email":"qqaqaq@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 1,
+        "status": 1,
         "type": "driver"
     },
     {
@@ -52,7 +52,7 @@
         "email":"@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "approved": 0,
+        "status": 0,
         "type": "admin"
     }
 ]
