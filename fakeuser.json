@@ -20,7 +20,7 @@
         "email":"fcfc@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "status": 0,
+        "status": "",
         "type": "driver"
     },
     {
@@ -44,7 +44,7 @@
         "email":"qqaqaq@gmail.com",
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
-        "status": 1,
+        "status": "",
         "type": "driver"
     },
     {
