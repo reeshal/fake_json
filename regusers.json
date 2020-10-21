@@ -1,0 +1,141 @@
+[
+    {
+        "phoneno":"57263859",
+        "email":"ecrtfetf@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": 0,
+        "type": "registered",
+        "recycling_stations": [
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"plastic",
+          "status":0
+          },
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"can",
+          "status":0
+          },
+          {
+          "latitude":"0000",
+          "longitude":"2000",
+          "material":"plastic",
+          "status":0
+          }
+        ]
+    },
+    {
+        "phoneno":"52131859",
+        "email":"wercrwcec@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": 2,
+        "type": "registered",
+        "recycling_stations": [
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"plastic",
+          "status":1
+          },
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"can",
+          "status":1
+          },
+          {
+          "latitude":"0000",
+          "longitude":"2000",
+          "material":"plastic",
+          "status":0
+          }
+        ]
+    },
+    {
+        "phoneno":"51234859",
+        "email":"fcfc@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": "",
+        "type": "driver",
+        "recycling_stations": []
+    },
+    {
+        "phoneno":"1234",
+        "email":"adfc@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": 0,
+        "type": "registered",
+        "recycling_stations": [
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"can",
+          "status":0
+          },
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"can",
+          "status":0
+          },
+          {
+          "latitude":"0000",
+          "longitude":"2000",
+          "material":"plastic",
+          "status":0
+          }
+        ]
+    },
+    {
+        "phoneno":"57212349",
+        "email":"qaqaqas@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": 1,
+        "type": "registered",
+        "recycling_stations": [
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"plastic",
+          "status":0
+          },
+          {
+          "latitude":"0000",
+          "longitude":"1000",
+          "material":"can",
+          "status":0
+          },
+          {
+          "latitude":"0000",
+          "longitude":"2000",
+          "material":"plastic",
+          "status":0
+          }
+        ]
+    },
+    {
+        "phoneno":"52345859",
+        "email":"qqaqaq@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": "",
+        "type": "driver",
+        "recycling_stations": []
+    },
+    {
+        "phoneno":"57263859",
+        "email":"@gmail.com",
+        "fullname":"Reeshal Rittoo",
+        "address":"Morc Souillac",
+        "status": 0,
+        "type": "admin",
+        "recycling_stations": []
+    }
+]
