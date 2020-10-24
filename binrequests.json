@@ -1,0 +1,32 @@
+[
+  {
+    "fullname":"Reeshal",
+    "phoneno":"27928994",
+    "status":"0",
+    "material":"plastic",
+    "count":1,
+    "datetime":"2020-01-01 13:00:01",
+    "latitude":"-20.450544",
+    "longitude":"57.332046"
+  },
+  {
+    "fullname":"Ritoo",
+    "phoneno":"21223394",
+    "status":"0",
+    "material":"can",
+    "count":2,
+    "datetime":"2020-10-01 13:00:01",
+    "latitude":"-20.429003",
+    "longitude":"57.359280"
+  },
+  {
+    "fullname":"goomany",
+    "phoneno":"6723394",
+    "status":"0",
+    "material":"plastic",
+    "count":1,
+    "datetime":"2020-11-01 13:00:01",
+    "latitude":"-20.261548",
+    "longitude":"57.395869"
+  }
+]
