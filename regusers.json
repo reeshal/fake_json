@@ -5,6 +5,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 0,
+        "brn":"123184189",
         "type": "registered",
         "bins": [
           {
@@ -36,6 +37,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 2,
+        "brn":"123184189",
         "type": "registered",
         "bins": [
           {
@@ -67,6 +69,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": "",
+        "brn":"",
         "type": "driver",
         "bins": []
     },
@@ -76,6 +79,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 0,
+        "brn":"123184189",
         "type": "registered",
         "bins": [
           {
@@ -107,6 +111,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 1,
+        "brn":"123184189",
         "type": "registered",
         "bins": [
           {
@@ -138,6 +143,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": "",
+        "brn":"",
         "type": "driver",
         "bins": []
     },
@@ -147,6 +153,7 @@
         "fullname":"Reeshal Rittoo",
         "address":"Morc Souillac",
         "status": 0,
+        "brn":"",
         "type": "admin",
         "bins": []
     }
