@@ -1,0 +1,34 @@
+[
+  {
+    "bin_id":,
+    "material":"plastic",
+    "date_requested":"2020-01-01 13:00:01",
+    "date_collected":"2020-02-01 13:00:01",
+    "phoneno":"12345678",
+    "fullname":"Reeshal"
+  },
+  {
+    "bin_id":,
+    "material":"plastic",
+    "date_requested":"2020-01-01 13:00:01",
+    "date_collected":"2020-02-01 13:00:01",
+    "phoneno":"78945678",
+    "fullname":"Reeshal"
+  },
+  {
+    "bin_id":,
+    "material":"can",
+    "date_requested":"2020-01-01 13:00:01",
+    "date_collected":"2020-02-01 13:00:01",
+    "phoneno":"12345678",
+    "fullname":"Reeshal"
+  },
+  {
+    "bin_id":,
+    "material":"can",
+    "date_requested":"2020-01-01 13:00:01",
+    "date_collected":"2020-02-01 13:00:01",
+    "phoneno":"78945678",
+    "fullname":"Reeshal"
+  }
+]
