@@ -1,6 +1,6 @@
 [
   {
-    "bin_id":,
+    "bin_id":1,
     "material":"plastic",
     "date_requested":"2020-01-01 13:00:01",
     "date_collected":"2020-02-01 13:00:01",
@@ -8,7 +8,7 @@
     "fullname":"Reeshal"
   },
   {
-    "bin_id":,
+    "bin_id":2,
     "material":"plastic",
     "date_requested":"2020-01-01 13:00:01",
     "date_collected":"2020-02-01 13:00:01",
@@ -16,7 +16,7 @@
     "fullname":"Reeshal"
   },
   {
-    "bin_id":,
+    "bin_id":3,
     "material":"can",
     "date_requested":"2020-01-01 13:00:01",
     "date_collected":"2020-02-01 13:00:01",
@@ -24,7 +24,7 @@
     "fullname":"Reeshal"
   },
   {
-    "bin_id":,
+    "bin_id":4,
     "material":"can",
     "date_requested":"2020-01-01 13:00:01",
     "date_collected":"2020-02-01 13:00:01",
